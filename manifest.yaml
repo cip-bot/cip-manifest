@@ -1,7 +1,7 @@
 registries:
   src: gcr.io/cip-demo-staging
   dest: gcr.io/cip-demo-prod
-service-account: 151574074812-compute@developer.gserviceaccount.com
+service-account: 151574074812@cloudbuild.gserviceaccount.com
 images:
 - name: hello-world
   dmap:
